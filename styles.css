@@ -1,0 +1,35 @@
+body {
+    color:#BD88F0
+  }
+
+.navbar {
+    padding: 1rem;
+  }
+
+.footer {
+    padding: 2rem;
+}
+
+.btn-primary:hover {
+    background-color: #F8B9F1;
+    border-color: white;
+    color: white;
+}
+
+h1 {
+    color: black
+}
+
+.jumbotron {
+    color: black
+}
+
+#hero-background-img {
+    background-image: url("https://images.unsplash.com/photo-1486428128344-5413e434ad35?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top:200px;
+    padding-bottom:200px;
+    opacity: 0.5;
+}
